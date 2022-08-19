@@ -1,5 +1,6 @@
 RENCANA KONTEN
 
 - AI
+  -MacOS
 - Flutter
-- Arduino
+
