@@ -1,6 +1,7 @@
 RENCANA KONTEN
 
 - AI
+  -MacOS
 - Flutter
   - Android
   - Web
