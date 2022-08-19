@@ -2,4 +2,8 @@ RENCANA KONTEN
 
 - AI
 - Flutter
+  - Android
+  - Web
+  - Windows
+  - IOS
 - Arduino
